@@ -1,0 +1,22 @@
+# Example data
+
+{
+    "packages": [
+        {
+            "packageName": "com.zgemma.exotest",
+            "name": "Exoplayer Test file",
+            "version": "1.1",
+            "url": "http://10.0.0.2/bla/",
+            "filename": "app.apk",
+            "changeLog": "Stuff that changed..."
+        },
+        {
+            "packageName": "com.andycodes.tvapp",
+            "name": "TVApp",
+            "version": "1.1",
+            "url": "http://10.0.0.2/bla/",
+            "filename": "app2.apk",
+            "changeLog": "Stuff that changed..."
+        }
+    ]
+}
