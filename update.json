@@ -6,7 +6,7 @@
             "packageName": "com.zgemma.exotest",
             "name": "Exoplayer Test file",
             "version": "1.1",
-            "url": "http://10.0.0.2/bla/",
+            "url": "http://e2bmc.nl/apk/",
             "filename": "app.apk",
             "changeLog": "Stuff that changed..."
         },
@@ -14,8 +14,24 @@
             "packageName": "com.andycodes.tvapp",
             "name": "TVApp",
             "version": "1.1",
-            "url": "http://10.0.0.2/bla/",
+            "url": "http://e2bmc.nl/apk/",
             "filename": "app2.apk",
+            "changeLog": "Stuff that changed..."
+        },
+                {
+            "packageName": "com.andycodes.tvlistener",
+            "name": "TVListener",
+            "version": "1.1",
+            "url": "http://e2bmc.nl/apk/",
+            "filename": "tvlistener.apk",
+            "changeLog": "Stuff that changed..."
+        },
+        {
+            "packageName": "com.andycodes.appupdater",
+            "name": "AppUpdater",
+            "version": "1.1",
+            "url": "http://e2bmc.nl/apk/",
+            "filename": "appupdater.apk",
             "changeLog": "Stuff that changed..."
         }
     ]
