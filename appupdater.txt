@@ -1,0 +1,5 @@
+APPUPDATE_APPS=20240703
+IMAGEVERSION=20240703
+BOOTMENU=20240703
+UBOOT=20240703
+APPUPDATE_URL=https://raw.githubusercontent.com/WT-E/appupdater/main/update.json
