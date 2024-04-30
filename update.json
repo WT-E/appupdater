@@ -25,6 +25,7 @@
             "url": "http://e2bmc.nl/apk/",
             "filename": "tvlistener.apk",
             "changeLog": "Stuff that changed..."
+            "resolution": "L1"  
         },
         {
             "packageName": "com.andycodes.appupdater",
@@ -33,7 +34,7 @@
             "url": "http://e2bmc.nl/apk/",
             "filename": "appupdater.apk",
             "changeLog": "Stuff that changed...",
-            "resolution": "4K"
+            "resolution": "L1"
         }
     ]
 }
