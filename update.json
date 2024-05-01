@@ -16,6 +16,7 @@
             "version": "1.1",
             "url": "http://e2bmc.nl/apk/",
             "filename": "app2.apk",
+            "appupdater": "true",
             "changeLog": "Stuff that changed..."
         },
         {
@@ -24,8 +25,7 @@
             "version": "1.1",
             "url": "http://e2bmc.nl/apk/",
             "filename": "tvlistener.apk",
-            "changeLog": "Stuff that changed...",
-            "resolution": "L1"  
+            "changeLog": "Stuff that changed..."
         },
         {
             "packageName": "com.andycodes.appupdater",
@@ -33,8 +33,25 @@
             "version": "1.1",
             "url": "http://e2bmc.nl/apk/",
             "filename": "appupdater.apk",
-            "changeLog": "Stuff that changed...",
-            "resolution": "L1"
+            "changeLog": "Stuff that changed..."
+        },
+        {
+            "packageName": "com.netflix.ninja",
+            "name": "Netflix 4K",
+            "version": "1.1",
+            "url": "http://e2bmc.nl/apk/",
+            "filename": "netflix-android-tv.apk",
+            "widevine": "L1",
+            "changeLog": "Stuff that changed..."
+        },
+        {
+    	    "packageName": "com.netflix.ninja",
+            "name": "Netflix",
+            "version": "1",
+            "url": "http://e2bmc.nl/apk/",
+            "filename": "NetflixTV.apk",
+            "widevine": "L3"
+            "changeLog": "Stuff that changed..."
         }
     ]
 }
