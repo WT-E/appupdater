@@ -5,7 +5,7 @@
         {
             "packageName": "com.zgemma.exotest",
             "name": "Exoplayer Test file",
-            "version": "1.1",
+            "version": "1",
             "url": "http://e2bmc.nl/apk/",
             "filename": "app.apk",
             "changeLog": "Stuff that changed..."
@@ -13,7 +13,7 @@
         {
             "packageName": "com.andycodes.tvapp",
             "name": "TVApp",
-            "version": "1.1",
+            "version": "2",
             "url": "http://e2bmc.nl/apk/",
             "filename": "app2.apk",
             "appupdater": "true",
@@ -22,7 +22,7 @@
         {
             "packageName": "com.andycodes.tvlistener",
             "name": "TVListener",
-            "version": "1.1",
+            "version": "2",
             "url": "http://e2bmc.nl/apk/",
             "filename": "tvlistener.apk",
             "changeLog": "Stuff that changed..."
@@ -30,7 +30,7 @@
         {
             "packageName": "com.andycodes.appupdater",
             "name": "AppUpdater",
-            "version": "1.1",
+            "version": "2",
             "url": "http://e2bmc.nl/apk/",
             "filename": "appupdater.apk",
             "changeLog": "Stuff that changed..."
@@ -38,7 +38,7 @@
         {
             "packageName": "com.netflix.ninja",
             "name": "Netflix 4K",
-            "version": "1.1",
+            "version": "1",
             "url": "http://e2bmc.nl/apk/",
             "filename": "netflix-android-tv.apk",
             "widevine": "L1",
@@ -50,7 +50,7 @@
             "version": "1",
             "url": "http://e2bmc.nl/apk/",
             "filename": "NetflixTV.apk",
-            "widevine": "L3"
+            "widevine": "L3",
             "changeLog": "Stuff that changed..."
         }
     ]
