@@ -48,7 +48,7 @@
             "version": "2",
             "url": "http://e2bmc.nl/apk/",
             "filename": "AppUpdater.apk",
-            "appupdater": "true"
+            "appupdater": "true",
             "changeLog": "APK Updater"
         },
         {
