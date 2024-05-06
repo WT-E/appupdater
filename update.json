@@ -2,38 +2,54 @@
 
 {
     "packages": [
+    	{
+            "packageName": "cm.aptoide.pt",
+            "name": "AptoideTV",
+            "version": "1.0",
+            "url": "http://e2bmc.nl/apk/",
+            "filename": "AptoideTV-5.1.2.apk",
+            "changeLog": "Alternative marketplace"
+        },
         {
-            "packageName": "com.zgemma.exotest",
+            "packageName": "com.androidfung.drminfo",
+            "name": "DRMinfo",
+            "version": "1.0",
+            "url": "http://e2bmc.nl/apk/",
+            "filename": "drminfo.apk",
+            "changeLog": "DRMInfo"
+        },
+        {
+            "packageName": "com.andycodes.exotest",
             "name": "Exoplayer Test file",
             "version": "1",
             "url": "http://e2bmc.nl/apk/",
-            "filename": "app.apk",
-            "changeLog": "Stuff that changed..."
+            "filename": "exotest.apk",
+            "changeLog": "test player"
         },
         {
             "packageName": "com.andycodes.tvapp",
             "name": "TVApp",
             "version": "2",
             "url": "http://e2bmc.nl/apk/",
-            "filename": "app2.apk",
-            "appupdater": "true",
-            "changeLog": "Stuff that changed..."
+            "filename": "tvapp.apk",
+            "changeLog": "TVApp"
         },
         {
             "packageName": "com.andycodes.tvlistener",
             "name": "TVListener",
             "version": "2",
             "url": "http://e2bmc.nl/apk/",
-            "filename": "tvlistener.apk",
-            "changeLog": "Stuff that changed..."
+            "filename": "TVListener.apk",
+            "changeLog": "Background system app"
         },
         {
             "packageName": "com.andycodes.appupdater",
             "name": "AppUpdater",
             "version": "2",
             "url": "http://e2bmc.nl/apk/",
-            "filename": "appupdater.apk",
-            "changeLog": "Stuff that changed..."
+            "filename": "AppUpdater.apk",
+            "appupdater": "true"
+            "changeLog": "APK Updater"
         },
         {
             "packageName": "com.netflix.ninja",
@@ -42,7 +58,7 @@
             "url": "http://e2bmc.nl/apk/",
             "filename": "netflix-android-tv.apk",
             "widevine": "L1",
-            "changeLog": "Stuff that changed..."
+            "changeLog": "Netflix androidtv"
         },
         {
     	    "packageName": "com.netflix.ninja",
@@ -51,7 +67,7 @@
             "url": "http://e2bmc.nl/apk/",
             "filename": "NetflixTV.apk",
             "widevine": "L3",
-            "changeLog": "Stuff that changed..."
+            "changeLog": "Netflix TV"
         }
     ]
 }
