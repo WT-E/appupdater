@@ -2,14 +2,6 @@
 
 {
     "packages": [
-    	{
-            "packageName": "cm.aptoide.pt",
-            "name": "AptoideTV",
-            "version": "1.0",
-            "url": "http://e2bmc.nl/apk/",
-            "filename": "AptoideTV-5.1.2.apk",
-            "changeLog": "Alternative marketplace"
-        },
         {
             "packageName": "com.androidfung.drminfo",
             "name": "DRMinfo",
