@@ -1,11 +1,12 @@
 # Example data
+# systemapp = need a restart after installation
 
 {
     "packages": [
         {
             "packageName": "com.androidfung.drminfo",
             "name": "DRMinfo",
-            "version": "1.0",
+            "version": "1",
             "url": "http://e2bmc.nl/apk/",
             "filename": "drminfo.apk",
             "changeLog": "DRMInfo"
@@ -13,7 +14,7 @@
         {
             "packageName": "com.andycodes.exotest",
             "name": "Exoplayer Test file",
-            "version": "1",
+            "version": "10",
             "url": "http://e2bmc.nl/apk/",
             "filename": "exotest.apk",
             "changeLog": "test player"
@@ -21,7 +22,7 @@
         {
             "packageName": "com.andycodes.tvapp",
             "name": "TVApp",
-            "version": "2",
+            "version": "10",
             "url": "http://e2bmc.nl/apk/",
             "filename": "tvapp.apk",
             "changeLog": "TVApp"
@@ -29,15 +30,16 @@
         {
             "packageName": "com.andycodes.tvlistener",
             "name": "TVListener",
-            "version": "2",
+            "version": "10",
             "url": "http://e2bmc.nl/apk/",
             "filename": "TVListener.apk",
+            "systemapp": "true",
             "changeLog": "Background system app"
         },
         {
             "packageName": "com.andycodes.appupdater",
             "name": "AppUpdater",
-            "version": "2",
+            "version": "10",
             "url": "http://e2bmc.nl/apk/",
             "filename": "AppUpdater.apk",
             "appupdater": "true",
@@ -46,7 +48,7 @@
         {
             "packageName": "com.netflix.ninja",
             "name": "Netflix 4K",
-            "version": "1",
+            "version": "10",
             "url": "http://e2bmc.nl/apk/",
             "filename": "netflix-android-tv.apk",
             "widevine": "L1",
@@ -55,7 +57,7 @@
         {
     	    "packageName": "com.netflix.ninja",
             "name": "Netflix",
-            "version": "1",
+            "version": "10",
             "url": "http://e2bmc.nl/apk/",
             "filename": "NetflixTV.apk",
             "widevine": "L3",
